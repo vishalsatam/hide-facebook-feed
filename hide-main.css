@@ -1,0 +1,4 @@
+/* Hide the main content area on the homepage */
+[role="main"] {
+  display: none !important;
+}

@@ -1,0 +1,14 @@
+/* Hide the first navigation list item */
+[role="navigation"] li:first-child {
+  display: none !important;
+}
+
+/* Hide the home page button */
+a[href="/home.php"] {
+  display: none !important;
+}
+
+/* Hide the home page button */
+a[href="/"] {
+  display: none !important;
+}
